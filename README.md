@@ -1,0 +1,1 @@
+The program filters the log lines by keywords (ERROR, DEBUG, TRACE, "5 spaces")  in multithreaded mode. The -i key allows you to invert the filtering command
